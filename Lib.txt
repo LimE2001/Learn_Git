@@ -25,3 +25,7 @@ git push origin LimE
 
 git checkout master 
 git merge LimE
+
+git commit --amend
+## Thay đổi message theo ý muốn (nhấn insert để bắt đầu nhập thay đổi)
+## Lưu lại và thoát (Nhấn Esc + nhập :wq ↲)
